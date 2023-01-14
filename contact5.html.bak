@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>WELCOME</title>
+	<link rel = "stylesheet" href = "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel ="stylesheet" href = "style.css">
+</head>
+<body>
+	<input type = "checkbox" id = "checkbox">
+	<header class = "header">
+	<h2 class = "u-name"> <b>WELCOME</b>
+		<label for = "checkbox">
+		<i id = "navbtn" class="fa fa-bars" aria-hidden = "true"></i>
+		</label>
+	</h2>
+	<i class = "fa fa-user" aria-hidden = "true"></i>
+	</header>
+	
+	<div class = "body">
+		<nav class = "sidebar">
+			<div class = "user-p">
+				<img src = "image7/g1.jpg">
+				<h4>CRISTYROSE/h4>
+			</div>
+			<ul>
+				<li>
+					<a href ="about5.html">
+						<i class = "fa fa-info-circle" aria-hidden = "true"></i>
+						<span>ABOUT</span>
+					</a>
+				</li>
+					<li>
+					<a href ="gallery5.html">
+						<i class="fa fa-image" aria-hidden = "true"></i>
+						<span>GALLERY</span>
+					</a>
+				</li>
+					<li>
+					<a href ="contact5.html">
+						<i class="fa fa-phone" aria-hidden = "true"></i>
+						<span>CONTACT <span>
+					</a>
+				</li>
+					<li>
+					<a href ="index.html">
+						<i class="fa fa-power-off" aria-hidden = "true"></i>
+						<span>LOG OUT</span>
+					</a>
+				</li>
+			</ul>
+		</nav>
+		<section class = "section-1">
+			<div class = "i">
+			<a href ="https://free.facebook.com/janmark.calawod.3?eav=AfamImF-kVJoiR8J_Q27mIUfw9o3ao3JN9rb1SAyBYAUyMkeTSjLGa8Kpch7I1ayskc&refid=12&ref=104&paipv=0">
+			<i class="fa fa-facebook" aria-hidden = "true"><h4>Facebook</h4></i>
+			</a>
+			</div>
+		</section>
+	</div>
+
+</body>
+</html>

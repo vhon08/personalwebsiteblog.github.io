@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>WEBSITE</title>
+	<link rel = "stylesheet" href = "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel ="stylesheet" href = "style.css">
+</head>
+<body>
+	<input type = "checkbox" id = "checkbox">
+	<header class = "header">
+	<h2 class = "u-name"> <b>WEBSITE</b>
+		<label for = "checkbox">
+		<i id = "navbtn" class="fa fa-bars" aria-hidden = "true"></i>
+		</label>
+	</h2>
+	<i class = "fa fa-user" aria-hidden = "true"></i>
+	</header>
+	
+	<div class = "body">
+		<nav class = "sidebar">
+			<div class = "user-p">
+				<img src = "image4/d1.jpg">
+				<h4>ADRIAN</h4>
+			</div>
+			<ul>
+				<li>
+					<a href ="about1.html">
+						<i class = "fa fa-info-circle" aria-hidden = "true"></i>
+						<span>ABOUT</span>
+					</a>
+				</li>
+					<li>
+					<a href ="gallery1.html">
+						<i class="fa fa-image" aria-hidden = "true"></i>
+						<span>GALLERY</span>
+					</a>
+				</li>
+					<li>
+					<a href ="contact1.html">
+						<i class="fa fa-phone" aria-hidden = "true"></i>
+						<span>CONTACT <span>
+					</a>
+				</li>
+					<li>
+					<a href ="index.html">
+						<i class="fa fa-power-off" aria-hidden = "true"></i>
+						<span>LOG OUT</span>
+					</a>
+				</li>
+			</ul>
+		</nav>
+		<section class = "section-1">
+			<div class = "image2">
+			<img src ="image2/b2.jpg"></img>
+			<img src ="image2/b3.jpg"></img>
+			<img src ="image2/b4.jpg"></img>
+			<img src ="image2/b5.jpg"></img>
+			</div>
+		</section>
+	</div>
+
+</body>
+</html>
